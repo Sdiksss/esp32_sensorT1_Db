@@ -1,4 +1,4 @@
-const { getAll, create, getOne, remove, update } = require('../controllers/sensorT1.controllers');
+const { getAll, create, getOne, remove, update } = require('../controllers/alcoholT2.controllers');
 const express = require('express');
 
 const AlcoholRouter = express.Router();
